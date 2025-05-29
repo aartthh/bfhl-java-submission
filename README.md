@@ -22,8 +22,8 @@ This Spring Boot application:
 
 ---
 
-## 🧠 SQL Problem Assigned (Even Reg No)
-
+## 🧠 SQL Problem Assigned (Odd Reg No)
+Note-Due to system constraints, this project was submitted without live execution. However, the complete code follows all the instructions and is ready to run with the correct Java and Maven setup.
 **Problem:**  
 Select the employee with the **highest salary** whose salary was **not credited on the 1st** of any month.
 
@@ -41,4 +41,6 @@ JOIN DEPARTMENT d ON e.DEPARTMENT = d.DEPARTMENT_ID
 WHERE DAY(p.PAYMENT_TIME) != 1
 ORDER BY p.AMOUNT DESC
 LIMIT 1;
-Due to system constraints, this project was submitted without live execution. However, the complete code follows all the instructions and is ready to run with the correct Java and Maven setup.
+
+
+
