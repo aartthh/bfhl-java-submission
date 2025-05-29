@@ -21,9 +21,8 @@ This Spring Boot application:
 - Maven
 
 ---
-
-## 🧠 SQL Problem Assigned (Odd Reg No)
 Note-Due to system constraints, this project was submitted without live execution. However, the complete code follows all the instructions and is ready to run with the correct Java and Maven setup.
+## 🧠 SQL Problem Assigned (Odd Reg No)
 **Problem:**  
 Select the employee with the **highest salary** whose salary was **not credited on the 1st** of any month.
 
